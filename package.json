@@ -87,7 +87,7 @@
   },
   "dependencies": {
     "@types/node": "^18.11.18",
-    "@types/node-fetch": "^2.6.4",
+    "@types/node-fetch": "^3.0.2",
     "@types/qs": "^6.9.7",
     "abort-controller": "^3.0.0",
     "agentkeepalive": "^4.2.1",
