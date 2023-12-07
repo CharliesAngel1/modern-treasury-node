@@ -86,7 +86,7 @@
     "fix": "eslint --fix --ext ts,js ."
   },
   "dependencies": {
-    "@types/node": "^18.11.18",
+    "@types/node": "^20.9.0",
     "@types/node-fetch": "^2.6.4",
     "@types/qs": "^6.9.7",
     "abort-controller": "^3.0.0",
